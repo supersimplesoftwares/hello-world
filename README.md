@@ -1,2 +1,6 @@
 # hello-world
 Hey folks! ... This is first repository of mine. !!
+
+Step to Edit the Read Me file ...
+Its gonna show how to edit a file?....
+
